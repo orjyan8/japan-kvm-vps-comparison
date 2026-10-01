@@ -1,0 +1,1 @@
+# japan-kvm-vps-comparison
